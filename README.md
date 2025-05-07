@@ -69,10 +69,10 @@
 
 ### 🌐 Languages I Speak
 
-- 🇬🇧 English  
-- 🇮🇳 Hindi  
-- 🇮🇳 Kannada  
-- 🇮🇳 Malayalam
+-  English  
+-  Hindi  
+-  Kannada  
+-  Malayalam
 
 ---
 
