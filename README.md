@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 About Me
-
+ 
 🎓 I'm a **Computer Science Engineering** student at KVG College of Engineering  
 💡 I love working on backend systems, automation tools, and real-time applications  
 🔧 Currently exploring **DevOps**, **Cloud Security**, and **Image Processing**  
